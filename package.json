@@ -1,0 +1,20 @@
+{
+  "name": "hexletjs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете! YO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorkonovalchik/hexlet-js.git"
+  },
+  "author": "Igor Konovalchik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorkonovalchik/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/igorkonovalchik/hexlet-js#readme"
+}
