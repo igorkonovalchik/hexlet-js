@@ -1,7 +1,7 @@
 {
   "name": "hexletjs",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "Мой первый проект на Хекслете! YO",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/igorkonovalchik/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.1"
   }
 }
